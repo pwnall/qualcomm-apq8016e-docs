@@ -1,0 +1,8 @@
+# Python virtual environment
+.venv/
+
+# npm packages
+node-modules/
+
+# Storage area for AI agents and generated code
+temp/
