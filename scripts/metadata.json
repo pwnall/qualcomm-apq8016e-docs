@@ -1,0 +1,611 @@
+[
+  {
+    "original_filename": "doc_000.pdf",
+    "new_filename": "Qualcomm.APQ8016.Snapdragon.410E.APQ8016E.Processor.Device.Specification.LM80-P0436-7.RevF.pdf",
+    "original_url": "https://developer.qualcomm.com/download/sd410/snapdragon-410-processor-device-specification.pdf?referrer=node/29241",
+    "title": "Snapdragon 410E (APQ8016E) Processor Device Specification",
+    "doc_number": "LM80-P0436-7",
+    "revision": "RevF",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-7",
+      "revision": "RevF"
+    }
+  },
+  {
+    "original_filename": "doc_001.pdf",
+    "new_filename": "Qualcomm.APQ8016.Snapdragon.410E.APQ8016E.Device.Revision.Guide.LM80-P0436-69.RevGUIDE.pdf",
+    "original_url": "https://developer.qualcomm.com/download/sd410/sd410e-device-revision-guide.pdf?referrer=node/29241",
+    "title": "Snapdragon 410E (APQ8016E) Device Revision Guide",
+    "doc_number": "LM80-P0436-69",
+    "revision": "RevGUIDE",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-69",
+      "revision": "RevGUIDE"
+    }
+  },
+  {
+    "original_filename": "doc_002.pdf",
+    "new_filename": "Qualcomm.APQ8016.PM8916PM8916-1.Power.Management.IC.Device.Specification.LM80-P0436-35.RevC.pdf",
+    "original_url": "https://developer.qualcomm.com/download/sd410/pm8916pm8916-1-power-management-ic-device-specification.pdf?referrer=node/29241",
+    "title": "PM8916/PM8916-1 Power Management IC Device Specification",
+    "doc_number": "LM80-P0436-35",
+    "revision": "RevC",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-35",
+      "revision": "RevC"
+    }
+  },
+  {
+    "original_filename": "doc_003.pdf",
+    "new_filename": "Qualcomm.APQ8016.WCN3620.Wireless.Connectivity.IC.Device.Specification.LM80-P0436-33.RevB.pdf",
+    "original_url": "https://developer.qualcomm.com/download/sd410/wcn3620-wireless-connectivity-ic-device-specification.pdf?referrer=node/29241",
+    "title": "WCN3620 Wireless Connectivity IC Device Specification",
+    "doc_number": "LM80-P0436-33",
+    "revision": "RevB",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-33",
+      "revision": "RevB"
+    }
+  },
+  {
+    "original_filename": "doc_004.pdf",
+    "new_filename": "Qualcomm.APQ8016.WCN3620.Wireless.Connectivity.IC.Device.Revision.Guide.LM80-P0436-32.RevA.pdf",
+    "original_url": "https://developer.qualcomm.com/download/sd410/wcn3620-wireless-connectivity-ic-device-revision-guide.pdf?referrer=node/29241",
+    "title": "WCN3620 Wireless Connectivity IC Device Revision Guide",
+    "doc_number": "LM80-P0436-32",
+    "revision": "RevA",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-32",
+      "revision": "RevA"
+    }
+  },
+  {
+    "original_filename": "doc_005.pdf",
+    "new_filename": "Qualcomm.APQ8016.WCN3680BWCN3660B.Device.Specification.LM80-P0436-70.RevB.pdf",
+    "original_url": "https://developer.qualcomm.com/download/sd410/wcn3680b-wcn3660b-device-spec.pdf?referrer=node/29241",
+    "title": "WCN3680B/WCN3660B Device Specification",
+    "doc_number": "LM80-P0436-70",
+    "revision": "RevB",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-70",
+      "revision": "RevB"
+    }
+  },
+  {
+    "original_filename": "doc_006.pdf",
+    "new_filename": "Qualcomm.APQ8016.WCN3660B.Device.Revision.Guide.LM80-P0436-71.RevGUIDE.pdf",
+    "original_url": "https://developer.qualcomm.com/download/sd410/wcn3660b-device-revision-guide.pdf?referrer=node/29241",
+    "title": "WCN3660B Device Revision Guide",
+    "doc_number": "LM80-P0436-71",
+    "revision": "RevGUIDE",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-71",
+      "revision": "RevGUIDE"
+    }
+  },
+  {
+    "original_filename": "doc_007.pdf",
+    "new_filename": "Qualcomm.APQ8016.WGR7640.GNSS.RF.Receiver.IC.Device.Specification.LM80-P0436-31.RevA.pdf",
+    "original_url": "https://developer.qualcomm.com/download/sd410/wgr7640-gnss-rf-receiver-ic-device-specification.pdf?referrer=node/29241",
+    "title": "WGR7640 GNSS RF Receiver IC Device Specification",
+    "doc_number": "LM80-P0436-31",
+    "revision": "RevA",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-31",
+      "revision": "RevA"
+    }
+  },
+  {
+    "original_filename": "doc_008.pdf",
+    "new_filename": "Qualcomm.APQ8016.WGR7640.IC.Device.Revision.Guide.LM80-P0436-30.RevB.pdf",
+    "original_url": "https://developer.qualcomm.com/download/sd410/wgr7640-ic-device-revision-guide.pdf?referrer=node/29241",
+    "title": "WGR7640 IC Device Revision Guide",
+    "doc_number": "LM80-P0436-30",
+    "revision": "RevB",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-30",
+      "revision": "RevB"
+    }
+  },
+  {
+    "original_filename": "doc_009.pdf",
+    "new_filename": "Qualcomm.APQ8016.Snapdragon.410E.Processor.APQ.8016E.Hardware.Register.Description.LM80-P0436-13.RevC.pdf",
+    "original_url": "https://developer.qualcomm.com/download/sd410/hardware-register-description-qualcomm-snapdragon-410.pdf?referrer=node/29241",
+    "title": "Snapdragon 410E Processor (APQ 8016E) Hardware Register Description",
+    "doc_number": "LM80-P0436-13",
+    "revision": "RevC",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-13",
+      "revision": "RevC"
+    }
+  },
+  {
+    "original_filename": "doc_010.pdf",
+    "new_filename": "Qualcomm.APQ8016.PM8916.Hardware.Register.Description.LM80-P0436-36.RevA.pdf",
+    "original_url": "https://developer.qualcomm.com/download/sd410/pm8916-hardware-register-description.pdf?referrer=node/29241",
+    "title": "PM8916 Hardware Register Description",
+    "doc_number": "LM80-P0436-36",
+    "revision": "RevA",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-36",
+      "revision": "RevA"
+    }
+  },
+  {
+    "original_filename": "doc_011.pdf",
+    "new_filename": "Qualcomm.APQ8016.Snapdragon.410E.Technical.Reference.Manual.rev.D.LM80-P0436-100.RevD.pdf",
+    "original_url": "https://developer.qualcomm.com/download/sd410/snapdragon-410e-technical-reference-manual.pdf?referrer=node/29241",
+    "title": "Snapdragon 410E Technical Reference Manual rev. D",
+    "doc_number": "LM80-P0436-100",
+    "revision": "RevD",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-100",
+      "revision": "RevD"
+    }
+  },
+  {
+    "original_filename": "doc_012.pdf",
+    "new_filename": "Qualcomm.APQ8016.Resource.Power.Manager.API.Reference.LM80-P0436-74.RevA.pdf",
+    "original_url": "https://developer.qualcomm.com/download/sd410/resource-power-manager-api-reference.pdf?referrer=node/29241",
+    "title": "Resource Power Manager API Reference",
+    "doc_number": "LM80-P0436-74",
+    "revision": "RevA",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-74",
+      "revision": "RevA"
+    }
+  },
+  {
+    "original_filename": "doc_013.pdf",
+    "new_filename": "Qualcomm.APQ8016.Snapdragon.410E.APQ8016E.Processor.Design.Guidelines.LM80-P0436-51.RevA.pdf",
+    "original_url": "https://developer.qualcomm.com/download/sd410/apq8016e-processor-design-guidelines.pdf?referrer=node/29241",
+    "title": "Snapdragon 410E (APQ8016E) Processor Design Guidelines",
+    "doc_number": "LM80-P0436-51",
+    "revision": "RevA",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-51",
+      "revision": "RevA"
+    }
+  },
+  {
+    "original_filename": "doc_014.pdf",
+    "new_filename": "Qualcomm.APQ8016.WCN3620.Layout.Guidelines.LM80-P0436-26.RevB.pdf",
+    "original_url": "https://developer.qualcomm.com/download/sd410/wcn3620-layout-guidelines.pdf?referrer=node/29241",
+    "title": "WCN3620 Layout Guidelines",
+    "doc_number": "LM80-P0436-26",
+    "revision": "RevB",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-26",
+      "revision": "RevB"
+    }
+  },
+  {
+    "original_filename": "doc_015.pdf",
+    "new_filename": "Qualcomm.APQ8016.WCN3620.Wireless.Connectivity.IC.Design.Guidelines.LM80-P0436-25.RevB.pdf",
+    "original_url": "https://developer.qualcomm.com/download/sd410/wcn3620-wireless-connectivity-ic-design-guidelines.pdf?referrer=node/29241",
+    "title": "WCN3620 Wireless Connectivity IC Design Guidelines",
+    "doc_number": "LM80-P0436-25",
+    "revision": "RevB",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-25",
+      "revision": "RevB"
+    }
+  },
+  {
+    "original_filename": "doc_016.pdf",
+    "new_filename": "Qualcomm.APQ8016.GPS.Quality19.2.MHz.Crystal.and.THXtal.Snapdragon.410E.LM80-P0436-39.RevA.pdf",
+    "original_url": "https://developer.qualcomm.com/download/sd410/gps-quality-192-mhz-crystal-thxtal.pdf?referrer=node/29241",
+    "title": "GPS Quality,19.2 MHz, Crystal, and TH+Xtal / Snapdragon 410E",
+    "doc_number": "LM80-P0436-39",
+    "revision": "RevA",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-39",
+      "revision": "RevA"
+    }
+  },
+  {
+    "original_filename": "doc_017.pdf",
+    "new_filename": "Qualcomm.APQ8016.WGR7640.IC.GNSS.RF.Receiver.Design.Guidelines.LM80-P0436-29.RevB.pdf",
+    "original_url": "https://developer.qualcomm.com/download/sd410/wgr7640-ic-gnss-rf-receiver-design-guidelines.pdf?referrer=node/29241",
+    "title": "WGR7640 IC GNSS RF Receiver Design Guidelines",
+    "doc_number": "LM80-P0436-29",
+    "revision": "RevB",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-29",
+      "revision": "RevB"
+    }
+  },
+  {
+    "original_filename": "doc_018.pdf",
+    "new_filename": "Qualcomm.APQ8016.Snapdragon.410E.APQ8016E.GPIO.Pad.Assignment.Spreadsheet.LM80-P0436-45.RevE.pdf",
+    "original_url": "https://developer.qualcomm.com/download/sd410/gpio-pad-assignment-spreadsheet.pdf?referrer=node/29241",
+    "title": "Snapdragon 410E (APQ8016E) GPIO Pad Assignment Spreadsheet",
+    "doc_number": "LM80-P0436-45",
+    "revision": "RevE",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-45",
+      "revision": "RevE"
+    }
+  },
+  {
+    "original_filename": "doc_019.pdf",
+    "new_filename": "Qualcomm.DragonBoard410c.DragonBoard.410c.GPIO.Pin.Assignment.for.AndroidLinux.LM80-P0436-6.RevD.pdf",
+    "original_url": "https://developer.qualcomm.com/download/db410c/gpio-pin-assignment.pdf?referrer=node/29241",
+    "title": "DragonBoard 410c GPIO Pin Assignment for Android/Linux",
+    "doc_number": "LM80-P0436-6",
+    "revision": "RevD",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-6",
+      "revision": "RevD"
+    }
+  },
+  {
+    "original_filename": "doc_020.pdf",
+    "new_filename": "Qualcomm.DragonBoard410c.DB410c.Schematic.LM25-P0436-1.RevDRAWN.pdf",
+    "original_url": "https://developer.qualcomm.com/download/db410c/schematic.pdf?referrer=node/29241",
+    "title": "DB410c Schematic",
+    "doc_number": "LM25-P0436-1",
+    "revision": "RevDRAWN",
+    "pdf_extraction_results": {
+      "doc_number": "LM25-P0436-1",
+      "revision": "RevDRAWN"
+    }
+  },
+  {
+    "original_filename": "doc_021.zip",
+    "new_filename": "Qualcomm.DragonBoard410c.DB410c.BOM.RevA.zip",
+    "original_url": "https://developer.qualcomm.com/download/db410c/bom.zip?referrer=node/29241",
+    "title": "DB410c BOM",
+    "doc_number": "UNKNOWN",
+    "revision": "RevA",
+    "pdf_extraction_results": {}
+  },
+  {
+    "original_filename": "doc_022.pdf",
+    "new_filename": "Qualcomm.DragonBoard410c.DB410c.Assembly.Drawing.LM25-P0436-3.RevA8.pdf",
+    "original_url": "https://developer.qualcomm.com/download/db410c/assembly-drawing.pdf?referrer=node/29241",
+    "title": "DB410c Assembly Drawing",
+    "doc_number": "LM25-P0436-3",
+    "revision": "RevA8",
+    "pdf_extraction_results": {
+      "doc_number": "LM25-P0436-3",
+      "revision": "RevA8"
+    }
+  },
+  {
+    "original_filename": "doc_023.pdf",
+    "new_filename": "Qualcomm.DragonBoard410c.DB410c.Mechanical.Drawing.LM25-P0436-4.RevSIZE.pdf",
+    "original_url": "https://developer.qualcomm.com/download/db410c/mechanical-drawing.pdf?referrer=node/29241",
+    "title": "DB410c Mechanical Drawing",
+    "doc_number": "LM25-P0436-4",
+    "revision": "RevSIZE",
+    "pdf_extraction_results": {
+      "doc_number": "LM25-P0436-4",
+      "revision": "RevSIZE"
+    }
+  },
+  {
+    "original_filename": "doc_024.pdf",
+    "new_filename": "Qualcomm.DragonBoard410c.Adding.U.FL.Antenna.Connectors.and.Validating.GPS.on.Android.Application.Note.LM80-P0436-42.RevC.pdf",
+    "original_url": "https://developer.qualcomm.com/download/db410c/adding-ufl-antenna-connectors-and-validating-gps-android-application-note.pdf?referrer=node/29241",
+    "title": "Adding U.FL Antenna Connectors and Validating GPS on Android Application Note",
+    "doc_number": "LM80-P0436-42",
+    "revision": "RevC",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-42",
+      "revision": "RevC"
+    }
+  },
+  {
+    "original_filename": "doc_025.pdf",
+    "new_filename": "Qualcomm.DragonBoard410c.Stereo.Connector.and.Audio.Routing.on.DragonBoard.410c.Application.Note.80-P0436-43.RevC.pdf",
+    "original_url": "https://developer.qualcomm.com/download/db410c/stereo-connector-and-audio-routing-application-note.pdf?referrer=node/29241",
+    "title": "Stereo Connector and Audio Routing on DragonBoard 410c Application Note",
+    "doc_number": "80-P0436-43",
+    "revision": "RevC",
+    "pdf_extraction_results": {
+      "doc_number": "80-P0436-43",
+      "revision": "RevC"
+    }
+  },
+  {
+    "original_filename": "doc_026.pdf",
+    "new_filename": "Qualcomm.APQ8016.Introduction.to.IBIS.Models.by.Qualcomm.Technologies.Inc.LM80-P0436-76.RevA.pdf",
+    "original_url": "https://developer.qualcomm.com/download/sd410/intro-ibis-models.pdf?referrer=node/29241",
+    "title": "Introduction to IBIS Models by Qualcomm Technologies, Inc",
+    "doc_number": "LM80-P0436-76",
+    "revision": "RevA",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-76",
+      "revision": "RevA"
+    }
+  },
+  {
+    "original_filename": "doc_027.pdf",
+    "new_filename": "Qualcomm.DragonBoard410c.GPIO.Usage.on.Low.Speed.Connector.Application.Note.LM80-P0436-20.RevC.pdf",
+    "original_url": "https://developer.qualcomm.com/download/db410c/gpio-usage-low-speed-connector-application-note.pdf?referrer=node/29241",
+    "title": "GPIO Usage on Low Speed Connector Application Note",
+    "doc_number": "LM80-P0436-20",
+    "revision": "RevC",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-20",
+      "revision": "RevC"
+    }
+  },
+  {
+    "original_filename": "doc_028.pdf",
+    "new_filename": "Qualcomm.DragonBoard410c.UART.to.USB.Adapter.Application.Note.LM80-P0436-24.RevB.pdf",
+    "original_url": "https://developer.qualcomm.com/download/db410c/uart-usb-adapter-application-note.pdf?referrer=node/29241",
+    "title": "UART to USB Adapter Application Note",
+    "doc_number": "LM80-P0436-24",
+    "revision": "RevB",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-24",
+      "revision": "RevB"
+    }
+  },
+  {
+    "original_filename": "doc_029.pdf",
+    "new_filename": "Qualcomm.DragonBoard410c.USB.Camera.Application.Note.LM80-P0436-22.RevB.pdf",
+    "original_url": "https://developer.qualcomm.com/download/db410c/usb-camera-application-note.pdf?referrer=node/29241",
+    "title": "USB Camera Application Note",
+    "doc_number": "LM80-P0436-22",
+    "revision": "RevB",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-22",
+      "revision": "RevB"
+    }
+  },
+  {
+    "original_filename": "doc_030.pdf",
+    "new_filename": "Qualcomm.DragonBoard410c.USB.to.Ethernet.Adapter.Application.Note.LM80-P0436-21.RevB.pdf",
+    "original_url": "https://developer.qualcomm.com/download/db410c/usb-ethernet-adapter-application-note.pdf?referrer=node/29241",
+    "title": "USB to Ethernet Adapter Application Note",
+    "doc_number": "LM80-P0436-21",
+    "revision": "RevB",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-21",
+      "revision": "RevB"
+    }
+  },
+  {
+    "original_filename": "doc_031.pdf",
+    "new_filename": "Qualcomm.DragonBoard410c.Interfacing.Grove.Digital.Light.I2C.Sensor.Application.Note.LM80-P0436-23.RevC.pdf",
+    "original_url": "https://developer.qualcomm.com/download/db410c/interfacing-grove-digital-light-i2c-sensor-application-note.pdf?referrer=node/29241",
+    "title": "Interfacing Grove Digital Light I2C Sensor Application Note",
+    "doc_number": "LM80-P0436-23",
+    "revision": "RevC",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-23",
+      "revision": "RevC"
+    }
+  },
+  {
+    "original_filename": "doc_032.pdf",
+    "new_filename": "Qualcomm.DragonBoard410c.Setting.Wi-Fi.MAC.Address.on.DragonBoard.410c.LM80-P0436-44.RevB.pdf",
+    "original_url": "https://developer.qualcomm.com/download/db410c/setting-wi-fi-mac-address.pdf?referrer=node/29241",
+    "title": "Setting Wi-Fi MAC Address on DragonBoard 410c",
+    "doc_number": "LM80-P0436-44",
+    "revision": "RevB",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-44",
+      "revision": "RevB"
+    }
+  },
+  {
+    "original_filename": "doc_033.pdf",
+    "new_filename": "Qualcomm.DragonBoard410c.Measuring.Power.Consumption.for.DragonBoard.410c.LM80-P0436-48.RevC.pdf",
+    "original_url": "https://developer.qualcomm.com/download/db410c/power-measurement-appnote.pdf?referrer=node/29241",
+    "title": "Measuring Power Consumption for DragonBoard 410c",
+    "doc_number": "LM80-P0436-48",
+    "revision": "RevC",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-48",
+      "revision": "RevC"
+    }
+  },
+  {
+    "original_filename": "doc_034.pdf",
+    "new_filename": "Qualcomm.DragonBoard410c.Creating.a.Camera.Mezzanine.and.Camera.Flex.Circuit.for.DragonBoard.LM80-P0436-53.RevA.pdf",
+    "original_url": "https://developer.qualcomm.com/download/db410c/creating-camera-mezzanine-and-camera-flex-circuit-dragonboard.pdf?referrer=node/29241",
+    "title": "Creating a Camera Mezzanine and Camera Flex Circuit for DragonBoard",
+    "doc_number": "LM80-P0436-53",
+    "revision": "RevA",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-53",
+      "revision": "RevA"
+    }
+  },
+  {
+    "original_filename": "doc_035.pdf",
+    "new_filename": "Qualcomm.DragonBoard410c.Snapdragon.410E.APQ8016E.Clock.Plan.LM80-P0436-55.RevA.pdf",
+    "original_url": "https://developer.qualcomm.com/download/db410c/clock-plan-apq8016e.pdf?referrer=node/29241",
+    "title": "Snapdragon 410E (APQ8016E) Clock Plan",
+    "doc_number": "LM80-P0436-55",
+    "revision": "RevA",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-55",
+      "revision": "RevA"
+    }
+  },
+  {
+    "original_filename": "doc_036.pdf",
+    "new_filename": "Qualcomm.DragonBoard410c.Snapdragon.410E.APQ8016E.System.Power.Overview.LM80-P0436-73.RevA.pdf",
+    "original_url": "https://developer.qualcomm.com/download/db410c/apq8016e-system-power-overview.pdf?referrer=node/29241",
+    "title": "Snapdragon 410E (APQ8016E) System Power Overview",
+    "doc_number": "LM80-P0436-73",
+    "revision": "RevA",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-73",
+      "revision": "RevA"
+    }
+  },
+  {
+    "original_filename": "doc_038.pdf",
+    "new_filename": "Qualcomm.DragonBoard410c.Snapdragon.410E.APQ8016E.Processor.Governor.Guide.LM80-P0436-3.RevC.pdf",
+    "original_url": "https://developer.qualcomm.com/download/db410c/processor-governor-guide-qualcomm-snapdragon-410.pdf?referrer=node/29241",
+    "title": "Snapdragon 410E (APQ8016E) Processor Governor Guide",
+    "doc_number": "LM80-P0436-3",
+    "revision": "RevC",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-3",
+      "revision": "RevC"
+    }
+  },
+  {
+    "original_filename": "doc_039.pdf",
+    "new_filename": "Qualcomm.DragonBoard410c.Thermal.Debugging.Guide.for.DragonBoard.410c.LM80-P0436-8.RevD.pdf",
+    "original_url": "https://developer.qualcomm.com/download/db410c/thermal-debugging-guide-dragonboard-410c.pdf?referrer=node/29241",
+    "title": "Thermal Debugging Guide for DragonBoard 410c",
+    "doc_number": "LM80-P0436-8",
+    "revision": "RevD",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-8",
+      "revision": "RevD"
+    }
+  },
+  {
+    "original_filename": "doc_040.pdf",
+    "new_filename": "Qualcomm.APQ8016.Display.Drivers.ACPI.and.XML.Configuration.Guide.for.Windows.10.IoT.LM80-P0337-1.RevB.pdf",
+    "original_url": "https://developer.qualcomm.com/download/sd410/display-drivers-config-guide-windows10-iot.pdf?referrer=node/29241",
+    "title": "Display Drivers (ACPI and XML) Configuration Guide for Windows 10 IoT",
+    "doc_number": "LM80-P0337-1",
+    "revision": "RevB",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0337-1",
+      "revision": "RevB"
+    }
+  },
+  {
+    "original_filename": "doc_041.pdf",
+    "new_filename": "Qualcomm.APQ8016.Snapdragon.410E.APQ8016E.Windows.Display.Overview.LM80-P0337-3.RevB.pdf",
+    "original_url": "https://developer.qualcomm.com/download/sd410/410e-apq8016e-windows-display-overview.pdf?referrer=node/29241",
+    "title": "Snapdragon 410E (APQ8016E) Windows Display Overview",
+    "doc_number": "LM80-P0337-3",
+    "revision": "RevB",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0337-3",
+      "revision": "RevB"
+    }
+  },
+  {
+    "original_filename": "doc_042.pdf",
+    "new_filename": "Qualcomm.DragonBoard410c.Software.Build.and.Installation.Guide.Linux.Android.LM80-P0436-2.RevJ.pdf",
+    "original_url": "https://developer.qualcomm.com/download/db410c/linux-android-software-build-and-installation-guide.pdf?referrer=node/29241",
+    "title": "Software Build and Installation Guide, Linux Android",
+    "doc_number": "LM80-P0436-2",
+    "revision": "RevJ",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-2",
+      "revision": "RevJ"
+    }
+  },
+  {
+    "original_filename": "doc_043.pdf",
+    "new_filename": "Qualcomm.DragonBoard410c.ADB.Commands.Guide.LM80-P0436-11.RevC.pdf",
+    "original_url": "https://developer.qualcomm.com/download/db410c/adb-commands-guide.pdf?referrer=node/29241",
+    "title": "ADB Commands Guide",
+    "doc_number": "LM80-P0436-11",
+    "revision": "RevC",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-11",
+      "revision": "RevC"
+    }
+  },
+  {
+    "original_filename": "doc_044.pdf",
+    "new_filename": "Qualcomm.DragonBoard410c.ADB.Over.Wi-Fi.Application.Note.LM80-P0436-19.RevB.pdf",
+    "original_url": "https://developer.qualcomm.com/download/db410c/adb-over-wi-fi-application-note.pdf?referrer=node/29241",
+    "title": "ADB Over Wi-Fi Application Note",
+    "doc_number": "LM80-P0436-19",
+    "revision": "RevB",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-19",
+      "revision": "RevB"
+    }
+  },
+  {
+    "original_filename": "doc_045.pdf",
+    "new_filename": "Qualcomm.DragonBoard410c.Miracast.Wi-Fi.Display.Application.Note.LM80-P0436-14.RevB.pdf",
+    "original_url": "https://developer.qualcomm.com/download/db410c/miracast-wi-fi-display-application-note.pdf?referrer=node/29241",
+    "title": "Miracast\u00ae Wi-Fi Display Application Note",
+    "doc_number": "LM80-P0436-14",
+    "revision": "RevB",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-14",
+      "revision": "RevB"
+    }
+  },
+  {
+    "original_filename": "doc_046.pdf",
+    "new_filename": "Qualcomm.DragonBoard410c.Sensors.Porting.Guide.for.DragonBoard.410c.LM80-P0436-9.RevC.pdf",
+    "original_url": "https://developer.qualcomm.com/download/db410c/sensors-porting-guide-dragonboard-410c.pdf?referrer=node/29241",
+    "title": "Sensors Porting Guide for DragonBoard 410c",
+    "doc_number": "LM80-P0436-9",
+    "revision": "RevC",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-9",
+      "revision": "RevC"
+    }
+  },
+  {
+    "original_filename": "doc_047.pdf",
+    "new_filename": "Qualcomm.DragonBoard410c.DSI.Display.Porting.Guide.Linux.Android.LM80-P0436-4.RevD.pdf",
+    "original_url": "https://developer.qualcomm.com/download/db410c/dsi-display-porting-guide-linux-android.pdf?referrer=node/29241",
+    "title": "DSI Display Porting Guide, Linux Android",
+    "doc_number": "LM80-P0436-4",
+    "revision": "RevD",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-4",
+      "revision": "RevD"
+    }
+  },
+  {
+    "original_filename": "doc_049.pdf",
+    "new_filename": "Qualcomm.DragonBoard410c.OpenMAX.OMX.Video.Encoder.LM80-P0436-15.RevC.pdf",
+    "original_url": "https://developer.qualcomm.com/download/db410c/openmax-omx-video-encoder.pdf?referrer=node/29241",
+    "title": "OpenMAX (OMX) Video Encoder",
+    "doc_number": "LM80-P0436-15",
+    "revision": "RevC",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-15",
+      "revision": "RevC"
+    }
+  },
+  {
+    "original_filename": "doc_050.pdf",
+    "new_filename": "Qualcomm.DragonBoard410c.OpenMAX.OMX.Video.Decoder.LM80-P0436-16.RevC.pdf",
+    "original_url": "https://developer.qualcomm.com/download/db410c/openmax-omx-video-decoder.pdf?referrer=node/29241",
+    "title": "OpenMAX (OMX) Video Decoder",
+    "doc_number": "LM80-P0436-16",
+    "revision": "RevC",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-16",
+      "revision": "RevC"
+    }
+  },
+  {
+    "original_filename": "doc_037.pdf",
+    "new_filename": "Qualcomm.DragonBoard410c.Little.Kernel.Boot.Loader.Overview.LM80-P0436-1.RevD.pdf",
+    "original_url": "https://developer.qualcomm.com/download/db410c/lk-overview-db410.pdf",
+    "title": "Little Kernel Boot Loader Overview",
+    "doc_number": "LM80-P0436-1",
+    "revision": "RevD",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-1",
+      "revision": "RevD"
+    }
+  },
+  {
+    "original_filename": "doc_048.pdf",
+    "new_filename": "Qualcomm.DragonBoard410c.Peripherals.Programming.Guide.Linux.Android.LM80-P0436-5.RevF.pdf",
+    "original_url": "https://developer.qualcomm.com/download/db410c/peripherals-programming-guide-linux-android.pdf",
+    "title": "Peripherals Programming Guide, Linux Android",
+    "doc_number": "LM80-P0436-5",
+    "revision": "RevF",
+    "pdf_extraction_results": {
+      "doc_number": "LM80-P0436-5",
+      "revision": "RevF"
+    }
+  }
+]

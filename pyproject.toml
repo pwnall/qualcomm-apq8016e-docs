@@ -4,4 +4,8 @@ version = "0.1.0"
 description = "Scripts for fetching Qualcomm APQ8016E (Snapdragon 410E) Documentation from Web Archive"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "pypdf>=6.5.0",
+    "requests>=2.32.5",
+]
